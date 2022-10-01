@@ -19,3 +19,6 @@ command description
 
 > Show all the directories and files in the folder, Here this command shows all the files and directories in the home folder
 ```home~$ ls```
+
+> Download any package by its url using terminal 
+```wget <url_of_package>```
