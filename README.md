@@ -22,3 +22,7 @@ command description
 
 > Download any package by its url using terminal 
 ```wget <url_of_package>```
+
+> Useradd is used to create a new user, while passwd is adding a password to that user’s account.
+```useradd AmaanKhan```
+```passwd 123456```
