@@ -26,3 +26,9 @@ command description
 > Useradd is used to create a new user, while passwd is adding a password to that user’s account.
 ```useradd AmaanKhan```
 ```passwd 123456```
+
+> Pwd is used to get absolute path of the current directory opened in terminal
+```pwd```
+
+> Mkdir is used to create a new folder/directory
+```mkdir folder_name```
