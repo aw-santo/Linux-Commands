@@ -32,3 +32,6 @@ command description
 
 > Mkdir is used to create a new folder/directory
 ```mkdir folder_name```
+
+> To print a variable
+```echo $variable_name```
