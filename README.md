@@ -40,7 +40,14 @@ command description
 ```ifconfig```. 
 
 > To print or set hostname.
-```hostname```
+```hostname```. 
+
+> To remove a empty directory.
+```rmdir```
+
+
+
+
 
 
 
