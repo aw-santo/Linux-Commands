@@ -34,4 +34,9 @@ command description
 ```mkdir folder_name```
 
 > To print a variable
-```echo $variable_name```
+```echo $variable_name```. 
+
+> To print network information.
+```ifconfig```
+
+
