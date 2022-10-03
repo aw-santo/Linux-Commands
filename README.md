@@ -43,7 +43,11 @@ command description
 ```hostname```. 
 
 > To remove a empty directory.
-```rmdir```
+```rmdir```. 
+
+> To create a file.
+```touch```
+
 
 
 
