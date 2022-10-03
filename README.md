@@ -37,6 +37,10 @@ command description
 ```echo $variable_name```. 
 
 > To print network information.
-```ifconfig```
+```ifconfig```. 
+
+> To print or set hostname.
+```hostname```
+
 
 
