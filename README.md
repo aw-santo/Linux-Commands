@@ -49,6 +49,8 @@ command description
 ```touch```
 
 
+> Copy file from host machine to remote server
+```scp <filename> <remote host user>@<remote host IP>:<remote host path> Example usage: sudo scp input.txt root@192.168.1.1:~/```
 
 
 
