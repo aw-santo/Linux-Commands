@@ -1,0 +1,94 @@
+
+VPS
+Oct 05, 2022
+
+Artūras B.
+
+16min Read
+
+40 Essential Linux Commands That Every User Should Know
+40 Essential Linux Commands That Every User Should Know
+Linux is a family of open-source Unix operating systems based on the Linux Kernel. They include Ubuntu, Fedora, Debian, openSUSE, and Red Hat. Using Linux to manage a Virtual Private Server (VPS) is common practice.
+
+When operating Linux, you need to use a shell – a program that gives you access to the operating system’s services. Most Linux distributions use a graphical user interface (GUI), making them beginner-friendly.
+
+However, we recommend utilizing the command-line interface (CLI) because it’s quicker and offers more control. Tasks that require multiple steps on the GUI can be done in a matter of seconds by entering commands into the CLI.
+
+So if you want to use Linux, learning the common utilities or commands will go a long way. This article will discuss the 40 basic commands to help you use your Linux distro effectively.
+
+What Is a Linux Command?
+The 40 Most Commonly Used Linux Commands
+1. sudo command
+2. pwd command
+3. cd command
+4. ls command
+5. cat command
+6. cp command
+7. mv command
+8. mkdir command
+9. rmdir command
+10. rm command
+11. touch command
+12. locate command
+13. find command
+14. grep command
+15. df command
+16. du command
+17. head command
+18. tail command
+19. diff command
+20. tar command
+21. chmod command
+22. chown command
+23. jobs command
+24. kill command
+25. ping command
+26. wget command
+27. uname command
+28. top command
+29. history command
+30. man command
+31. echo command
+32. zip, unzip commands
+33. hostname command
+34. useradd, userdel commands
+35. apt-get command
+36. nano, vi, jed commands
+37. alias, unalias commands
+38. su command
+39. htop command
+40. ps command
+Bonus Tips and Tricks
+Download a Free Linux Commands Cheat Sheet
+Linux Commands FAQ
+What Is the Basic Command of Linux?
+How Many Commands Does Linux Have?
+What Is a Linux Command?
+A Linux command is a program or utility that runs on the CLI – a console that interacts with the system via texts and processes. It’s similar to the Command Prompt application in Windows.
+
+Linux commands are executed on Terminal by pressing Enter at the end of the line. You can run commands to perform various tasks, from package installation to user management and file manipulation.
+
+Here’s what a Linux command’s general syntax looks like:
+
+CommandName [option(s)] [parameter(s)]
+
+A command may contain an option or a parameter. In some cases, it can still run without them. These are the three most common parts of a command:
+
+CommandName is the rule that you want to perform.
+Option or flag modifies a command’s operation. To invoke it, use hyphens (–) or double hyphens (—).
+Parameter or argument specifies any necessary information for the command.
+Keep in mind that all Linux commands are case-sensitive.
+
+The 40 Most Commonly Used Linux Commands
+Before proceeding to the list of basic commands, you need to open Terminal first. If you are still unsure, check out our CLI tutorial.
+
+Although the steps may differ depending on your Linux distribution, the Terminal application is usually found in the Utilities section.
+
+Here is the list of basic Linux commands:
+
+1. sudo command
+Short for superuser do, sudo is one of the most popular basic Linux commands that lets you perform tasks that require administrative or root permissions.
+
+When using sudo, the system will prompt users to authenticate themselves with a password. Then, the Linux system will log a timestamp as a tracker. By default, every root user can run sudo commands for 15 minutes/session.
+
+If you try to run sudo in the command line without authenticating yourself, the system will log the activity as a securit
