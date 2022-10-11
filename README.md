@@ -61,3 +61,6 @@ command description
 ```wget <url_of_package>```
 > To print a variable
 ```echo $variable_name```. 
+
+> To create a file.
+```touch```
