@@ -59,4 +59,5 @@ command description
 
 > Download any package by its url using terminal 
 ```wget <url_of_package>```
-
+> To print a variable
+```echo $variable_name```. 
