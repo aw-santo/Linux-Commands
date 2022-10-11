@@ -54,6 +54,8 @@ command description
 
 > Used to change mode of file
 ```chmod xwr```
+> Used to change mode of file
+```chmod xwr```
 
 
 
