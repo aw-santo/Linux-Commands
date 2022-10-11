@@ -57,5 +57,6 @@ command description
 > Used to change mode of file
 ```chmod xwr```
 
-
+> Download any package by its url using terminal 
+```wget <url_of_package>```
 
