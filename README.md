@@ -62,8 +62,6 @@ command description
 > To print a variable
 ```echo $variable_name```. 
 
-> To create a file.
-```touch```
 
 > ```man``` 
  To get the user manual of any command that we can run on terminal.
