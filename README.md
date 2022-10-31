@@ -62,5 +62,11 @@ command description
 > To print a variable
 ```echo $variable_name```. 
 
-> To create a file.
-```touch```
+
+> ```man``` 
+ To get the user manual of any command that we can run on terminal.
+ For Example if we want to know about command 'touch' we use below command
+```man touch```
+
+> ```ps```
+It gives the list of processes running along with their Process ID.
